@@ -6,47 +6,65 @@ const Jobs = () => {
       <Job
         name="Full Time Sales Associate - Sydney Boutique"
         borderColor="red"
-        text="CDI - Australie - Sydney"
+        contract="CDI"
+        country="Australie"
+        city="Sydney"
       />
       <Job
         name="Agent de sécurité - Pantin"
         borderColor="green"
-        text="CDI - France - Pantin"
+        contract="CDI"
+        country="France"
+        city="Pantin"
       />
       <Job
         name="Responsable d'Atelier (H/F)"
         borderColor="yellow"
-        text="CDD - France - Pantin"
+        contract="CDD"
+        country="France"
+        city="Pantin"
       />
       <Job
         name="Chef de Projets"
         borderColor="blue"
-        text="CDD - France - Paris"
+        contract="CDD"
+        country="France"
+        city="Pantin"
       />
       <Job
         name="Développeur React.js"
         borderColor="pink"
-        text="CDI - France - Paris"
+        contract="CDI"
+        country="France"
+        city="Pantin"
       />
       <Job
         name="Sale Associate Stockholm"
         borderColor="red"
-        text="CDI - Suède - Stockholm"
+        contract="CDI"
+        country="Suède"
+        city="Stockholm"
       />
       <Job
         name="Vendeur/se - Crans Montana"
         borderColor="green"
-        text="CDI - Suisse - Crans-Montana"
+        contract="CDI"
+        country="Suisse"
+        city="Crans-Montana"
       />
       <Job
         name="CRM & Data Quality Analyst"
         borderColor="yellow"
-        text="CDI - USA - New York"
+        contract="CDI"
+        country="USA"
+        city="New York"
       />
       <Job
         name="Infirmier (H/F)"
         borderColor="blue"
-        text="CDI - France - Pantin"
+        contract="CDI"
+        country="France"
+        city="Pantin"
       />
     </div>
   );
